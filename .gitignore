@@ -1,0 +1,4 @@
+.create_bionic_mapping
+*.o
+.vscode
+*.txt
