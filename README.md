@@ -3,11 +3,9 @@ Given a certain text, you can create the bionic reading form of it, which improv
 
 # Build
 ```bash
-$ cd src
 $ make 
 ```
 # Running
  ```bash
- $ cd src
  $ ./create_bionic_mapping <filepath> <#ofWordsPerLine>
  ```
