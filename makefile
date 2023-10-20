@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
 
-SRC_DIR = ./
+SRC_DIR = src/
 OBJ_DIR = ./obj
 
 SRCS = $(wildcard $(SRC_DIR)/*.cpp)

@@ -8,5 +8,6 @@ $ make
 ```
 # Running
  ```bash
+ $ cd src
  $ ./create_bionic_mapping <filepath> <#ofWordsPerLine>
  ```
